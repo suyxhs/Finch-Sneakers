@@ -1,11 +1,5 @@
 <p align="center">
-      <img src="logo02.png" alt="logo project" width="726">
-</p>
-
-<p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+      <img src="[logo02.png](https://i.ibb.co/RSgnBNF/logo02.png)" alt="logo project" width="726">
 </p>
 
 ## About
