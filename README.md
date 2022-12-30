@@ -11,19 +11,15 @@
 ## О проекте
 
 Данный проект является первым опытом в использовании библиотеки react.js. Проект полностью Full-Stack, к нему подключен mockAPI (как сервис для хранения данных).
+Спасибо большое, <a href="https://www.youtube.com/@ArchakovBlog">Archakov Blog</a>, за курс по введению в React.js.
 
-## Documentation
+## Документации (которыми я пользовался)
 
-React.js - https://reactjs.org/
-
-
-## Distribute
-
-- [Service Name](Page Link)
-
+React.js - https://reactjs.org/docs/getting-started.html <br>
+React Router - https://reactrouter.com/en/main <br>
+Scss - https://sass-scss.ru/documentation/ <br>
+React Skeleton - https://skeletonreact.com/ <br>
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
-
-## License
+- [suyxhs](https://github.com/suyxhs)
