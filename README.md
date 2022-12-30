@@ -8,13 +8,14 @@
    <img src="https://img.shields.io/badge/Version%20macro--css-v1.0.5-orange" alt="macro-css">
 </p>
 
-## About
+## О проекте
 
-About Text Here
+Данный проект является первым опытом в использовании библиотеки react.js. Проект полностью Full-Stack, к нему подключен mockAPI (как сервис для хранения данных).
 
 ## Documentation
 
-Documentation Here
+React.js - https://reactjs.org/
+
 
 ## Distribute
 
