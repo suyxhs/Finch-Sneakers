@@ -15,7 +15,7 @@
 
 ## Документации (которыми я пользовался)
 
-React.js - https://reactjs.org/docs/getting-started.html <br>
+React.js - <a href="https://reactjs.org/docs/getting-started.html" target="_blank">Ссылка</a> <br>
 React Router - https://reactrouter.com/en/main <br>
 Scss - https://sass-scss.ru/documentation/ <br>
 React Skeleton - https://skeletonreact.com/ <br>
