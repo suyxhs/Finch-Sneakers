@@ -8,6 +8,10 @@
    <img src="https://img.shields.io/badge/Version%20macro--css-v1.0.5-orange" alt="macro-css">
 </p>
 
+<p align="center">
+   <a href="https://finch-sneakers.vercel.app/" target="_blank">Ссылка на сайт</a>
+</p>
+
 ## О проекте
 
 Данный проект является первым опытом в использовании библиотеки react.js. Проект полностью Full-Stack, к нему подключен mockAPI (как сервис для хранения данных).
